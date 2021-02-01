@@ -2,9 +2,9 @@
 
 Create list of your personal expense 
 
-### Tech Use : 
+# Tech Use : 
 ## 1. Flutter
-# Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
@@ -18,4 +18,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## 2. Sqlflite
-# Link : https://pub.dev/packages/sqflite
+### Link : https://pub.dev/packages/sqflite
