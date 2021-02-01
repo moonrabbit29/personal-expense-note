@@ -61,8 +61,8 @@ class _MyHomePageState extends State<MyHomePage> {
   Future<List<Transaction>> get _allTransaction async {
     List<Transaction> ex = List<Transaction>();
     List<Contact> list = await updateListView();
+    _transaction.clear();
     list.forEach((e) {
-      print("bruh");
       setState(() {
         _transaction.add(e.transaction);
       });
