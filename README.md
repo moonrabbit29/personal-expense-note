@@ -2,7 +2,7 @@
 
 Create list of your personal expense 
 
-### tech use : 
+### Tech Use : 
 ## 1. Flutter
 # Getting Started
 
